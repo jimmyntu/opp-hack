@@ -1,0 +1,24 @@
+{
+  "conversations": [
+    {
+      "timestamp": "2023-01-01", 
+      "username": "abc",
+      "message": "This is a very good day. I feel very happy."
+    },
+    {
+      "timestamp": "2023-01-01",
+      "username": "def",
+      "message": "I don't like sunny day. Too hot and humid. I sweat like a pig. I hate outdoor activities."
+    },
+    {
+      "timestamp": "2023-02-02",
+      "username": "def",
+      "message": "I would rather stay at home and enjoy aircon. I will not go out."
+    },
+    {
+      "timestamp": "2023-03-03",
+      "username": "abc",
+      "message": "So sad, I failed my test. I need a hug."
+    }
+  ]
+}
